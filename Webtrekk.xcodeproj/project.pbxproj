@@ -1115,7 +1115,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 4.15.13;
+				MARKETING_VERSION = 4.15.14;
 				OTHER_SWIFT_FLAGS = "-DCARTHAGE_CONFIG";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Webtrekk.Webtrekk;
 				PRODUCT_NAME = Webtrekk;
@@ -1143,7 +1143,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 4.15.13;
+				MARKETING_VERSION = 4.15.14;
 				OTHER_SWIFT_FLAGS = "-DCARTHAGE_CONFIG";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Webtrekk.Webtrekk;
 				PRODUCT_NAME = Webtrekk;
@@ -1217,6 +1217,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Webtrekk.Webtrekk;
 				PRODUCT_NAME = Webtrekk;
 				SDKROOT = appletvos;
@@ -1246,6 +1247,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Webtrekk.Webtrekk;
 				PRODUCT_NAME = Webtrekk;
 				SDKROOT = appletvos;
